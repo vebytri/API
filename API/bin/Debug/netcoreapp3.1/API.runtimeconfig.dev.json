@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Vebi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Vebi\\.nuget\\packages"
+    ]
+  }
+}
